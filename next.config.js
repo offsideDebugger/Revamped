@@ -13,10 +13,7 @@ const nextConfig = {
         hostname: '**.cloudinary.com',
       }
     ],
-  },
-  experimental: {
-    serverActions: true,
-  },
+  }
 }
 
-module.exports = nextConfig
+module.exports = nextConfig 
